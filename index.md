@@ -7,7 +7,7 @@ layout: post
 <h1>I AM not quite EVIL!!!</h1>
 
 
-[Some Text][]
+[Some Text][#header]
 
 ### YO [Some Text] ###
 
